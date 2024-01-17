@@ -162,3 +162,5 @@ cython_debug/
 # Ignore DS_store
 .DS_Store
 
+#Ignore Config.py
+config.py
