@@ -79,4 +79,4 @@ Does a player’s dominant hand (i.e. left or right) have an impact on the playe
 
 
 ## Presentation
-Our visulaizations can be found on our [presentation slides](https://docs.google.com/presentation/d/1E0WVb5j7Sa7nxKiPKwricYTwQSbTrnU1LzUmB71TXM4/edit?usp=sharing).
+Our visualizations can be found on our [presentation slides](https://docs.google.com/presentation/d/1E0WVb5j7Sa7nxKiPKwricYTwQSbTrnU1LzUmB71TXM4/edit?usp=sharing).
